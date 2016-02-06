@@ -1,0 +1,28 @@
+name: timwebb
+favicon: null
+layout_spectrum: 0.47201630496419966
+typography_spectrum: 0.20821058843284845
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6830847493838519
+  lightness: 0.8866313907783478
+  saturation: 0.5292267831973732
+  rhythmicContrast: 0.6948960679583251
+purpose: []
