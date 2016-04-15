@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'There was a time when Real Estate agents showed up to your house, asked you to sign their agency agreement, put a sign in the front yard, showed a few people through, gave out a few brochures, and with any luck, sold your property.'
-datePublished: '2016-04-15T20:58:02.129Z'
-dateModified: '2016-04-15T20:57:57.511Z'
+datePublished: '2016-04-15T21:01:26.409Z'
+dateModified: '2016-04-15T21:01:05.212Z'
 author: []
 related: []
 app_links: []
@@ -25,7 +25,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Tim Webb - Auckland Real Estate Agent - Wallace &amp; Stratton</h1><p>Now More Than Ever, You Need An Agent Who Can Cut Through The Marketing Noise, &amp; Get Your Home Top Of Mind In The Real Estate Market.</p><img src="https://static.wixstatic.com/media/29ba67_de507e06bdf64e668b7521953a6d071d.jpg" /></article>
+<article style=""><h1>Tim Webb - Auckland Real Estate Agent - Wallace &amp; Stratton</h1><p>Now More Than Ever, You Need An Agent Who Can Cut Through The Marketing Noise, &amp; Get Your Home Top Of Mind In The Real Estate Market.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d0b97451d3e061f680f319c69275d2dc66c3666.jpg" /></article>
 
 There was a time when Real Estate agents showed up to your house, asked you to sign their agency agreement, put a sign in the front yard, showed a few people through, gave out a few brochures, and with any luck, sold your property.
 
