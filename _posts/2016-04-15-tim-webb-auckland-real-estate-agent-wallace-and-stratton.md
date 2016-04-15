@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'There was a time when Real Estate agents showed up to your house, asked you to sign their agency agreement, put a sign in the front yard, showed a few people through, gave out a few brochures, and with any luck, sold your property.'
-datePublished: '2016-04-15T20:52:35.230Z'
-dateModified: '2016-04-15T20:52:00.723Z'
+datePublished: '2016-04-15T20:58:02.129Z'
+dateModified: '2016-04-15T20:57:57.511Z'
 author: []
 related: []
 app_links: []
@@ -43,8 +43,4 @@ Making this connection part of any buyer's reality is very much to your advantag
 
 Remember, first impressions are lasting impressions. The quality of marketing your agent puts forward largely determines the quality of buyer you attract, how long your property sits on the market, and more importantly, the price you acheive.
 
-Do you want a proven performer who prepares, presents and showcases your home, who can acquire on cue, an audience of emotionally engaged, "pre-sold" buyers who
-
-want to pay you more
-
-, or an agent who advertises your house as 4 walls, a floor, ceiling and roof?
+Do you want a proven performer who prepares, presents and showcases your home, who can acquire on cue, an audience of emotionally engaged, "pre-sold" buyers who want to pay you more, or an agent who advertises your house as 4 walls, a floor, ceiling and roof?
