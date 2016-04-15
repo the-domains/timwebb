@@ -1,7 +1,7 @@
 name: timwebb
 favicon: null
-layout_spectrum: 0.47201630496419966
-typography_spectrum: 0.20821058843284845
+layout_spectrum: 0.50212
+typography_spectrum: 0.61399
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.6830847493838519
+  brandStrength: 0.5
   lightness: 0.8866313907783478
   saturation: 0.5292267831973732
   rhythmicContrast: 0.6948960679583251
